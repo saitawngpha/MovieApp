@@ -20,7 +20,7 @@ iOS Home Screen | iOS Details Screen
 <img src="src/3.png" width="300px"> | <img src="src/4.png" width="300px">
 
 ### References 
-![Here](https://www.youtube.com/watch?v=y38XB0cx3Sk)
+[Here](https://www.youtube.com/watch?v=y38XB0cx3Sk)
 
 ### Donate Me
 | SHIBU | BTC | ETH | DOGE |
